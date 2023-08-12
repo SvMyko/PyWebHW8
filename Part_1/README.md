@@ -29,7 +29,7 @@ This project demonstrates how to connect to a MongoDB Atlas database using the M
 1. Run the `searcher.py` script to search for quotes using different commands:
 
 
-python searcher.py
+        `python searcher.py`
 
 
 The script will prompt you to input commands in the format `command:value`. Available commands are:
