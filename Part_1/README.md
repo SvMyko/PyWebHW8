@@ -21,7 +21,7 @@ This project demonstrates how to connect to a MongoDB Atlas database using the M
 
 2. Run the `baseloader.py` script to load the data into the MongoDB Atlas database:
 
-python baseloader.py
+        `python baseloader.py`
 
 
 ## Searching for Quotes
